@@ -22,5 +22,5 @@ This project demonstrates how to:
 
 ---
 
-## 📂 Repository Structure
+
 
